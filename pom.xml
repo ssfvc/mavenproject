@@ -1,0 +1,13 @@
+<project>
+<!-- project name -->
+<artifactId>mavenproject</artifactId>
+<!-- organigation -->
+<groupId>com.maha.abc</groupId>
+<!-- pom.xml version -->
+<modelVersion>4.0.0</modelVersion>
+<!-- version of war commponent artifact -->
+<version>1.0</version>
+<!-- packing all files into jar or war file -->
+<packaging>jar</packaging>
+
+</project>
